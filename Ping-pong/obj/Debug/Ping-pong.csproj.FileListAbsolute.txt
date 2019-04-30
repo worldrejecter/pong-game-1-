@@ -1,0 +1,10 @@
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe.config
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\bin\Debug\Ping-pong.exe
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\bin\Debug\Ping-pong.pdb
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\obj\Debug\Ping-pong.csprojAssemblyReference.cache
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\obj\Debug\Ping_pong.Form1.resources
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\obj\Debug\Ping_pong.Properties.Resources.resources
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\obj\Debug\Ping-pong.csproj.GenerateResource.cache
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\obj\Debug\Ping-pong.csproj.CoreCompileInputs.cache
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\obj\Debug\Ping-pong.exe
+c:\users\brygo\source\repos\Ping-pong\Ping-pong\obj\Debug\Ping-pong.pdb
